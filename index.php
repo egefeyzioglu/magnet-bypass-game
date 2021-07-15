@@ -174,9 +174,9 @@
       <div id="content"></div>
     </div>
     <div id="info">
-      <img src="/LBV_C.png" style="width: 100%;">
+      <!--<img src="/LBV_C.png" style="width: 100%;">-->
       <h3>Magnet Alarm Bypass Demo</h3>
-      <h4>Lock Bypass Village Grayhat 2020</h4>
+      <h4>Lock Bypass Village<!-- Grayhat 2020 --></h4>
       Use the WASD keys to move the stick around. When you think you have successfully disabled the alarm sensor, try opening the door.
       <div id="controls">
         <div id="text">
